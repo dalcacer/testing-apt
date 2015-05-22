@@ -1,0 +1,60 @@
+0 package loss
+13.98
+12.62
+12.05
+13.10
+12.72
+5 package loss
+11.56
+13.20
+13.03
+11.78
+10.39
+10 package loss
+10.78
+11.64
+16.78
+13.00
+14.02
+15 package loss
+11.61
+24.33
+15.03
+13.09
+13.62
+20 package loss
+16.71
+12.71
+11.22
+13.14
+10.60
+25 package loss
+10.63
+11.96
+8.96
+12.13
+11.91
+30 package loss
+13.08
+13.04
+20.76
+17.62
+9.63
+35 package loss
+11.57
+14.19
+17.88
+33.07
+151.62
+40 package loss
+10.58
+11.09
+Failed to fetch http://us.archive.ubuntu.com/ubuntu/pool/main/libj/libjpeg-turbo/libjpeg-turbo8_1.1.90+svn733-0ubuntu4.4_i386.deb  Could not resolve 'us.archive.ubuntu.com'
+Failed to fetch http://us.archive.ubuntu.com/ubuntu/pool/main/libj/libjpeg8-empty/libjpeg8_8c-2ubuntu7_i386.deb  Could not resolve 'us.archive.ubuntu.com'
+Failed to fetch http://us.archive.ubuntu.com/ubuntu/pool/main/libg/libgd2/libgd2-noxpm_2.0.36~rc1~dfsg-6ubuntu2_i386.deb  Could not resolve 'us.archive.ubuntu.com'
+E: Unable to fetch some archives, maybe run apt-get update or try with --fix-missing?
+Command exited with non-zero status 100
+38.39
+15.92
+Command terminated by signal 2
+21.86
